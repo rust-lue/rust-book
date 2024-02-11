@@ -1,2 +1,5 @@
-# rust-book
-Tracking "Rust in Action"
+
+# Purpose
+This repo tracks the book "Rust in Action"
+
+# Status
